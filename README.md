@@ -1,6 +1,6 @@
-# NetflixMovieLens
+# MovieLens
 
-NetflixMovieLens is a dbt project that transforms MovieLens movie, rating, tag,
+MovieLens is a dbt project that transforms MovieLens movie, rating, tag,
 link, and genome data into analytics-ready models in Snowflake.
 
 ![dbt](https://img.shields.io/badge/dbt-1.0%2B-FF694A?logo=dbt&logoColor=white)
