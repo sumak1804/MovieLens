@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Secrets / Environment files
+.env
+*.env
+profiles.yml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+target/
+dbt_packages/
+logs/
+.env
