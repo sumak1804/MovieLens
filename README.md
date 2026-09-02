@@ -173,6 +173,11 @@ Run all configured checks with `dbt test`, or select a model while developing:
 dbt test --select dim_movies
 dbt test --select fct_genome_scores
 ```
+## Documentation Link
+- [MovieLens documentation](http://localhost:8081/#!/overview)
+
+  <img width="854" height="377" alt="image" src="https://github.com/user-attachments/assets/aab1605f-eed9-4795-a320-f1aeed54ca48" />
+
 
 ## Troubleshooting
 
